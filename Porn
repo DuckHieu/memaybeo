@@ -4786,7 +4786,7 @@ local Misc = Library:Tab("Misc","rbxassetid://11447063791")
 local Setting = Library:Tab("Settings","rbxassetid://11446835336")
 --------------------------------------------------------------------
 
-Setting:Label("Hãy Cày Thuê")
+Setting:Label("Hãy Xem JAV")
 
 Setting:Line()
 
